@@ -1,4 +1,4 @@
-# Jth155.github.io
+# Arch Install
 
 First things first, we need to get the ISO file in order to have an arch linux to install. 
 To do that, download BitTorrent Web, and snag the torrent file from the Arch Linux download page. 
@@ -60,3 +60,12 @@ I choose to make mine universal, so I used nano /etc/bash.bashrc and then added 
 Now, when you save and exit it won’t work, you need to run source /etc/bash.bashrc. 
 And with that, we have the full arch setup we need.
 
+# Docker Install
+
+I watched the video given 
+I ran the command docker run -d -p 443:443 --name openvas mikesplain/openvas 
+I opened https://localhost 
+I used admin and admin for user and password 
+I ran a quick test on my local machine (don't think it worked? not sure exactly) 
+I composerized my run command. 
+I submitted :)
