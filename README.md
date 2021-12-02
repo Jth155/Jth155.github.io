@@ -1,17 +1,17 @@
 # Arch Install
 
-First things first, we need to get the ISO file in order to have an arch linux to install.\
-To do that, download BitTorrent Web, and snag the torrent file from the Arch Linux download page.\
+First things first, we need to get the ISO file in order to have an arch linux to install. \
+To do that, download BitTorrent Web, and snag the torrent file from the Arch Linux download page. \
 Throw that on a flashdrive.\
-Next, make a VM pointing to that ISO from the USB, and then go through the process of making the VM.\ 
-Before you turn it on, make sure that you change its memory to 8 gigs.\
+Next, make a VM pointing to that ISO from the USB, and then go through the process of making the VM. \ 
+Before you turn it on, make sure that you change its memory to 8 gigs. \
 Now we turn on the VM.\
-Our first goal is to partition the file system into 2 parts.\
-Use fdisk -l to see our disks, and then cfdisk [name of disk] to format the disk and start partitioning it.\
-Note: This part is for UEFI systems only, you must have an EFI partition.\ 
-Make the first partition a primary partition, starting at the first sector, and then type +512M in order to make it 512 megabytes big.\ 
+Our first goal is to partition the file system into 2 parts. \
+Use fdisk -l to see our disks, and then cfdisk [name of disk] to format the disk and start partitioning it. \
+Note: This part is for UEFI systems only, you must have an EFI partition. \ 
+Make the first partition a primary partition, starting at the first sector, and then type +512M in order to make it 512 megabytes big. \ 
 This will be our ESP Partition. \
-Type t to change the type, and then type ef for an EFI partition.\
+Type t to change the type, and then type ef for an EFI partition. \
 With that partition done, we now need to create a root partition. \
 Go through the same process in order to make the partition, but this time allocate all the rest of the space. \
 We don’t need to change the type for this one, so type w to finish. \
