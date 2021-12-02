@@ -77,4 +77,11 @@ I followed the instructions to get a droplet setup. \
 I SSH'd into the droplet and then followed the given guide for the previous project in order to get docker installed on the droplet. \
 From there, I followed the guide found in the Powerpoint in order to get my wireguard set up, the only things I did indepently were to change the time zone to America/Chicago, and to change the IP address to the IP address of my droplet. \
 Next, I ran the log and used the QR code to get the VPN on my phone. \
+I took the screenshots there (shown here) \
+
+Next, downloaded wireguard on my laptop, took the conf file from the digital ocean drop, and set up the vpn on my laptop, taking the two screenshots shown here. \
+
+Here is the link to the guide that I used. \
+https://thematrix.dev/setup-wireguard-vpn-server-with-docker/ \
+All in all, I used this powerpoint, and the last docker powerpoint to do this project, following the directions as needed.
 
