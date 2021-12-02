@@ -68,7 +68,7 @@ I opened https://localhost \
 I used admin and admin for user and password \
 I ran a quick test on my local machine (don't think it worked? not sure exactly) \
 I composerized my run command. \
-I submitted :)\
+I submitted :)
 
 # Digital Ocean (Project 3)
 
