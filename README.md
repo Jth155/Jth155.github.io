@@ -74,5 +74,7 @@ I submitted :)
 
 I opened the link given in the Powerpoint. \
 I followed the instructions to get a droplet setup. \
-I SSH'd into the droplet and then followed the given guide in order to get docker installed on the droplet. \
+I SSH'd into the droplet and then followed the given guide for the previous project in order to get docker installed on the droplet. \
+From there, I followed the guide found in the Powerpoint in order to get my wireguard set up, the only things I did indepently were to change the time zone to America/Chicago, and to change the IP address to the IP address of my droplet. \
+Next, I ran the log and used the QR code to get the VPN on my phone. \
 
