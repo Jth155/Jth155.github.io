@@ -73,15 +73,16 @@ I submitted :)
 # Digital Ocean (Project 3)
 
 I opened the link given in the Powerpoint. \
+I went to digital ocean and got an account set up and my month paid for. \
 I followed the instructions to get a droplet setup. \
-I SSH'd into the droplet and then followed the given guide for the previous project in order to get docker installed on the droplet. \
-From there, I followed the guide found in the Powerpoint in order to get my wireguard set up, the only things I did indepently were to change the time zone to America/Chicago, and to change the IP address to the IP address of my droplet. \
+I SSH'd into the droplet and then followed the given guide (see above) for the previous project in order to get docker installed on the droplet. \
+From there, I followed the guide found in the Powerpoint (linked below) in order to get my wireguard set up, the only things I did indepently were to change the time zone to America/Chicago, and to change the IP address to the IP address of my droplet. \
 Next, I ran the log and used the QR code to get the VPN on my phone. \
 I took the screenshots there (shown here) \
 ![IMG_1151](https://user-images.githubusercontent.com/90277324/144496210-fbd795e6-37be-4413-9919-8fd7d241d26e.PNG)
 ![IMG_1150](https://user-images.githubusercontent.com/90277324/144496234-4ead7a75-89f1-4480-9d6a-c6fa5e29f64b.PNG)
 
-Next, downloaded wireguard on my laptop, took the conf file from the digital ocean drop, and set up the vpn on my laptop, taking the two screenshots shown here. \
+Next, downloaded wireguard on my laptop, took the conf file from the digital ocean drop (~/wireguard/config/post_pc1/post_pc1.config or something along those lines), and set up the vpn on my laptop, taking the two screenshots shown here. \
 <img width="1280" alt="Screenshot 2021-12-02 135537" src="https://user-images.githubusercontent.com/90277324/144495952-03236fce-9a26-43c0-a420-2fb42c7f47b3.png">
 <img width="1280" alt="Screenshot 2021-12-02 140822" src="https://user-images.githubusercontent.com/90277324/144495967-73216262-4cbe-477b-aa4d-d05cd947c3f4.png">
 
